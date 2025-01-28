@@ -1,11 +1,16 @@
 # Projet-React-JS
 comment debuter en react js
 # Installation
-* installer node js : https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-22-04
-> sudo apt update
+* installer node js  et npm: utiliser nvm pour gérer les versions de Node.js et npm
+> curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
 
-> sudo apt install nodejs
+> source ~/.bashrc
+
+> nvm install node
 
 > node -v
+
+> npm -v
+
 * installer npm
 > sudo apt install npm
