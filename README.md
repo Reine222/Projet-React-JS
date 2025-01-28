@@ -12,5 +12,6 @@ comment debuter en react js
 
 > npm -v
 
-* installer npm
-> sudo apt install npm
+# commencer un projet en react js
+* créer le projet dans le terminal avec la commande :
+> npx create-react-app cours-react-1
