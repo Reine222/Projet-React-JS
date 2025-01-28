@@ -14,4 +14,4 @@ comment debuter en react js
 
 # commencer un projet en react js
 * créer le projet dans le terminal avec la commande :
-> npx create-react-app cours-react-1
+> npx create-react-app project-name
