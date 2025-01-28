@@ -17,6 +17,8 @@ comment debuter en react js
 > npm install -g create-react-app
 * créer le projet dans le terminal avec la commande :
 > npx create-react-app project-name
+* Installer le module web-vitals :
+> npm install web-vitals
 * Démarrer le serveur de développement :
 > npm start
 * explication des different fichiers et dossier du projet
