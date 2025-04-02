@@ -1,10 +1,10 @@
-
+import '../styles/Cart.css'
 
 function Cart() {
     const price_monstera = 8;
     const price_lierre = 10;
     const price_bouquet = 15;
-    return (<div>
+    return (<div className='panier'>
         <h2>Panier</h2>
         <ul>
             <li>1 monstera : {price_monstera} €</li>

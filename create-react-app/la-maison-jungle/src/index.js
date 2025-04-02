@@ -4,12 +4,14 @@ import './styles/index.css';
 import reportWebVitals from './reportWebVitals';
 import Banner from './components/Banner';
 import Cart from './components/Cart';
+import ShoppingList from './components/ShoppingList';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <Banner />
     <Cart />
+    <ShoppingList />
   </React.StrictMode>
 );
 
